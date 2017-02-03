@@ -1,6 +1,6 @@
 ## React/Meteor Weather Application
 
-Created for CIT382
+Created for CIT382 at the University of Oregon
 
 To test, clone or download, install dependencies, and run meteor:
 
